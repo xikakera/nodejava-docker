@@ -11,7 +11,7 @@
 [13-ea-27-jdk-alpine3.9, 13-ea-27-alpine3.9, 13-ea-jdk-alpine3.9, 13-ea-alpine3.9, 13-jdk-alpine3.9, 13-alpine3.9, 13-ea-27-jdk-alpine, 13-ea-27-alpine, 13-ea-jdk-alpine, 13-ea-alpine, 13-jdk-alpine, 13-alpine](https://github.com/docker-library/openjdk/blob/d368a4f37bed4dc5d0b61ec889c8e7bad438eacf/13/jdk/alpine/Dockerfile)
 
 ## node
-> base on java:3.6.8-alpine3.9
+> base on openjdk:3.6.8-alpine3.9
 
 [docker node](https://hub.docker.com/_/node)
 
